@@ -5,6 +5,9 @@ import MappingUpdate from './components/MappingUpdate';
 import State from './components/State';
 import CounterPractice from './components/CounterPractice';
 import TernaryPractice from './components/TernaryPractice';
+import StateTernary from './components/StateTernary';
+import ComplexState from './components/ComplexState';
+import ConditionalRendering from './components/ConditionalRendering';
 
 function App() 
 {
@@ -14,7 +17,10 @@ function App()
             {/* <MappingUpdate /> */}
             {/* <State /> */}
             {/* <CounterPractice /> */}
-            <TernaryPractice />
+            {/* <TernaryPractice /> */}
+            {/* <StateTernary /> */}
+            {/* <ComplexState /> */}
+            <ConditionalRendering />
         </div>
     )
 }
