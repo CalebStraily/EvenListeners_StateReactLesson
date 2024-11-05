@@ -15,7 +15,7 @@ function App()
     return(
         <div className="container-fluid">
             {/* <EventListeners /> */}
-            {/* <MappingUpdate /> */}
+            <MappingUpdate />
             {/* <State /> */}
             {/* <CounterPractice /> */}
             {/* <TernaryPractice /> */}

@@ -67,8 +67,10 @@ function Forms()
             favColor: ""
         })
 
-        console.log(formData);
+        
     }
+
+    console.log(formDataAll);
 
     return(
         <div className="row">
