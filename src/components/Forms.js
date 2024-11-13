@@ -116,6 +116,9 @@ function Forms()
 
                 </form>
             </div>
+            <div className="col-6">
+                {formDataAll.map}
+            </div>
         </div>
     )
 }
